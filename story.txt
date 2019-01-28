@@ -1,5 +1,5 @@
 A long time ago, in a galaxy far, far away
 
-I don't actually know anymore of the Star Wars thing
+I'm now changing part of a line, not deleting it as I did along the branch
 
 Testing out branching now
